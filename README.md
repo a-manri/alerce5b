@@ -6,3 +6,5 @@ Integrantes:
 - Juan Vergara
 
 Se requiere utilizar los datos de la versión 7.1 de ALeRCE-ZTF
+
+El archivo data/preprocessed/features_with_labels.parquet contiene el dataset con las features extraídas de la última versión
